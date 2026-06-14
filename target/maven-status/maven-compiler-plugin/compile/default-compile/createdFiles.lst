@@ -1,5 +1,7 @@
 com\mycompany\LatihanPertemuan1\SegitigaBintang.class
 com\mycompany\LatihanPertemuan1\KasirSederhana.class
+Pertemuan14\TodoListApp.class
+Pertemuan14\LoopArrayList.class
 com\mycompany\LatihanPertemuan1\DemoArray.class
 com\mycompany\LatihanPertemuan1\RekeningBank.class
 com\mycompany\LatihanPertemuan1\PenjumlahanMatriks.class
@@ -18,6 +20,7 @@ com\mycompany\LatihanPertemuan1\MahasiswaEnkapsulasi.class
 com\mycompany\LatihanPertemuan1\NilaiMahasiswa.class
 com\mycompany\LatihanPertemuan1\DemoMethodReturn.class
 com\mycompany\LatihanPertemuan1\RunBank.class
+Pertemuan14\Latihan14.class
 com\mycompany\LatihanPertemuan1\RunKalkulator.class
 com\mycompany\LatihanPertemuan1\Product.class
 com\mycompany\LatihanPertemuan1\InputArray.class
@@ -27,3 +30,4 @@ com\mycompany\LatihanPertemuan1\DemoMethodVoid.class
 com\mycompany\LatihanPertemuan1\TampilkanMatriks.class
 com\mycompany\LatihanPertemuan1\LatihanPertemuan1.class
 com\mycompany\LatihanPertemuan1\KalkulatoroOP.class
+Pertemuan14\DemoArrayList.class

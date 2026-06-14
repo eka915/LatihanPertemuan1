@@ -21,7 +21,7 @@ public class KalkulatorPembagianAman {
                 System.out.print("Masukkan angka kedua:");
                 int angka2 = scan.nextInt();
                 int hasil = angka1 / angka2;
-                System.out.println("Hasil pemabgian:" + hasil);
+                System.out.println("Hasil pemabagian:" + hasil);
                 
                 valid = true;
              } catch (InputMismatchException e) {
